@@ -1,7 +1,5 @@
 package com.teachmeskills.lesson14.part_2.model;
 
-import java.util.Map;
-
 public class RepairShop {
     public static final int MAX_CAPACITY = 20;
     public int currentCarInRepair = 0;
